@@ -1,0 +1,19 @@
+body{
+    background-color:rgb(238, 214, 206);
+    font-family:cursive;
+    text-align: center;
+    align-items: center;
+}
+h2{
+    color: rgb(72, 12, 211);
+}
+h1{
+    color: rgb(2, 4, 112);
+}
+.subdiv{
+    padding: 10px 10px 10px 10px;
+    margin: 5px 5px 5px 5px;
+    border-style: solid;
+    border-color: black;
+
+}
